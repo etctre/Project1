@@ -1,2 +1,3 @@
 # Project1
-Project1 
+
+Copyright (c) by Yuri Philippenko
