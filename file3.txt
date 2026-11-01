@@ -1,3 +1,8 @@
 Code of DeveloperA
+<<<<<<< HEAD
 Any of featA
 Another featA
+=======
+
+Something of featB
+>>>>>>> 45f6085 (Some of featB)
