@@ -1,3 +1,6 @@
 Text in file2
 
-Code of DeveloperA
+Code of Development
+
+Another string of DeveloperB
+
